@@ -6,6 +6,7 @@ tailwind.config = {
           'hover-color': '#D8EAFF',
           'box-color': '#EBF7E9',
           'text-color': '#202427',
+          'pera-color': '#6C7D93',
         },
         fontFamily: {
           'primary-font': "'Open Sans', sans-serif",
